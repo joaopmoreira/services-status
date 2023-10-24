@@ -148,19 +148,19 @@
     "url": "https://dlgportas.com",
     "icon": "https://icons.duckduckgo.com/ip3/dlgportas.com.ico",
     "slug": "dlgportas",
-    "status": "up",
-    "uptime": "18.72%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "18.72%",
-    "uptimeMonth": "18.72%",
-    "uptimeYear": "18.72%",
+    "status": "down",
+    "uptime": "20.15%",
+    "uptimeDay": "3.97%",
+    "uptimeWeek": "20.15%",
+    "uptimeMonth": "20.15%",
+    "uptimeYear": "20.15%",
     "time": 7583,
     "timeDay": 13635,
     "timeWeek": 7583,
     "timeMonth": 7583,
     "timeYear": 7583,
     "dailyMinutesDown": {
-      "2023-10-24": 1199,
+      "2023-10-24": 1201,
       "2023-10-23": 1344
     }
   },
@@ -361,7 +361,7 @@
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-10-24": 1199,
+      "2023-10-24": 1258,
       "2023-10-23": 1440,
       "2023-10-22": 493
     }
