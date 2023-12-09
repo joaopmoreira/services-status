@@ -153,11 +153,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlgportas.com.ico",
     "slug": "dlgportas",
     "status": "up",
-    "uptime": "94.64%",
+    "uptime": "94.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.64%",
+    "uptimeYear": "94.70%",
     "time": 3975,
     "timeDay": 1127,
     "timeWeek": 1444,
@@ -288,10 +288,10 @@
     "url": "https://my.visualwebdesign.pt",
     "icon": "https://icons.duckduckgo.com/ip3/my.visualwebdesign.pt.ico",
     "slug": "visualwebdesign",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2715,
@@ -299,17 +299,19 @@
     "timeWeek": 2692,
     "timeMonth": 2756,
     "timeYear": 2715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 1
+    }
   },
   {
     "name": "visualwebdesign",
     "url": "https://new.visualwebdesign.pt",
     "icon": "https://icons.duckduckgo.com/ip3/new.visualwebdesign.pt.ico",
     "slug": "visualwebdesign",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2715,
@@ -317,7 +319,9 @@
     "timeWeek": 2692,
     "timeMonth": 2756,
     "timeYear": 2715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 1
+    }
   },
   {
     "name": "paivasom",
@@ -342,10 +346,10 @@
     "url": "https://parquemonteverde.com",
     "icon": "https://icons.duckduckgo.com/ip3/parquemonteverde.com.ico",
     "slug": "parquemonteverde",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2070,
@@ -353,7 +357,9 @@
     "timeWeek": 2025,
     "timeMonth": 2139,
     "timeYear": 2070,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 2
+    }
   },
   {
     "name": "phunkpt",
@@ -372,7 +378,7 @@
     "timeMonth": 124,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-12-09": 39,
+      "2023-12-09": 797,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -536,10 +542,10 @@
     "url": "https://visualwebdesign.net",
     "icon": "https://icons.duckduckgo.com/ip3/visualwebdesign.net.ico",
     "slug": "visualwebdesign",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2715,
@@ -547,17 +553,19 @@
     "timeWeek": 2692,
     "timeMonth": 2756,
     "timeYear": 2715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 1
+    }
   },
   {
     "name": "visualwebdesign",
     "url": "https://visualwebdesign.pt",
     "icon": "https://icons.duckduckgo.com/ip3/visualwebdesign.pt.ico",
     "slug": "visualwebdesign",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2715,
@@ -565,7 +573,9 @@
     "timeWeek": 2692,
     "timeMonth": 2756,
     "timeYear": 2715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 1
+    }
   },
   {
     "name": "HTTP",
