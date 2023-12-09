@@ -76,18 +76,19 @@
     "url": "https://benali.org",
     "icon": "https://icons.duckduckgo.com/ip3/benali.org.ico",
     "slug": "benali",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 2119,
-    "timeDay": 1235,
-    "timeWeek": 2096,
-    "timeMonth": 2259,
-    "timeYear": 2119,
+    "time": 2098,
+    "timeDay": 1015,
+    "timeWeek": 1933,
+    "timeMonth": 2216,
+    "timeYear": 2098,
     "dailyMinutesDown": {
+      "2023-12-09": 1,
       "2023-11-19": 17,
       "2023-11-07": 16,
       "2023-11-02": 16
@@ -153,11 +154,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlgportas.com.ico",
     "slug": "dlgportas",
     "status": "up",
-    "uptime": "94.70%",
+    "uptime": "94.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.70%",
+    "uptimeYear": "94.74%",
     "time": 3975,
     "timeDay": 1127,
     "timeWeek": 1444,
@@ -289,19 +290,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.visualwebdesign.pt.ico",
     "slug": "visualwebdesign",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2707,
     "timeDay": 2210,
     "timeWeek": 2634,
     "timeMonth": 2742,
     "timeYear": 2707,
-    "dailyMinutesDown": {
-      "2023-12-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "visualwebdesign",
@@ -309,19 +308,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/new.visualwebdesign.pt.ico",
     "slug": "visualwebdesign",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2707,
     "timeDay": 2210,
     "timeWeek": 2634,
     "timeMonth": 2742,
     "timeYear": 2707,
-    "dailyMinutesDown": {
-      "2023-12-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "paivasom",
@@ -347,19 +344,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/parquemonteverde.com.ico",
     "slug": "parquemonteverde",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2072,
     "timeDay": 1708,
     "timeWeek": 2041,
     "timeMonth": 2139,
     "timeYear": 2072,
-    "dailyMinutesDown": {
-      "2023-12-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "phunkpt",
@@ -378,7 +373,7 @@
     "timeMonth": 124,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-12-09": 805,
+      "2023-12-09": 1280,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
@@ -543,19 +538,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/visualwebdesign.net.ico",
     "slug": "visualwebdesign",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2707,
     "timeDay": 2210,
     "timeWeek": 2634,
     "timeMonth": 2742,
     "timeYear": 2707,
-    "dailyMinutesDown": {
-      "2023-12-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "visualwebdesign",
@@ -563,19 +556,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/visualwebdesign.pt.ico",
     "slug": "visualwebdesign",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2707,
     "timeDay": 2210,
     "timeWeek": 2634,
     "timeMonth": 2742,
     "timeYear": 2707,
-    "dailyMinutesDown": {
-      "2023-12-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HTTP",
