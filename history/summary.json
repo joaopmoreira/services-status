@@ -101,19 +101,19 @@
     "url": "https://prosnowlife.com",
     "icon": "https://icons.duckduckgo.com/ip3/prosnowlife.com.ico",
     "slug": "prosnowlife",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1850,
-    "timeDay": 3359,
-    "timeWeek": 2341,
-    "timeMonth": 2969,
-    "timeYear": 1850,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1856,
+    "timeDay": 3289,
+    "timeWeek": 2387,
+    "timeMonth": 2971,
+    "timeYear": 1856,
     "dailyMinutesDown": {
-      "2024-01-18": 2
+      "2024-01-18": 13
     }
   },
   {
@@ -384,7 +384,7 @@
     "timeMonth": 135,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-01-18": 1016,
+      "2024-01-18": 1027,
       "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
@@ -498,19 +498,19 @@
     "url": "https://prosnowlife.com",
     "icon": "https://icons.duckduckgo.com/ip3/prosnowlife.com.ico",
     "slug": "prosnowlife",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1850,
-    "timeDay": 3359,
-    "timeWeek": 2341,
-    "timeMonth": 2969,
-    "timeYear": 1850,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1856,
+    "timeDay": 3289,
+    "timeWeek": 2387,
+    "timeMonth": 2971,
+    "timeYear": 1856,
     "dailyMinutesDown": {
-      "2024-01-18": 3
+      "2024-01-18": 13
     }
   },
   {
