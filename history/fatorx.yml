@@ -1,7 +1,7 @@
 url: https://formacao.fatorx.pt
-status: up
-code: 200
-responseTime: 926
-lastUpdated: 2024-01-25T23:11:46.785Z
+status: down
+code: 500
+responseTime: 930
+lastUpdated: 2024-01-26T19:24:26.315Z
 startTime: 2023-10-22T15:50:33.919Z
 generator: Upptime <https://github.com/upptime/upptime>
