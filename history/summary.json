@@ -355,19 +355,19 @@
     "url": "https://parquemonteverde.com",
     "icon": "https://icons.duckduckgo.com/ip3/parquemonteverde.com.ico",
     "slug": "parquemonteverde",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2056,
-    "timeDay": 2073,
-    "timeWeek": 2300,
-    "timeMonth": 2105,
-    "timeYear": 2056,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 2057,
+    "timeDay": 2101,
+    "timeWeek": 2286,
+    "timeMonth": 2106,
+    "timeYear": 2057,
     "dailyMinutesDown": {
-      "2024-02-01": 1
+      "2024-02-01": 15
     }
   },
   {
@@ -387,7 +387,7 @@
     "timeMonth": 133,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-02-01": 180,
+      "2024-02-01": 195,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
