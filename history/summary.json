@@ -255,19 +255,19 @@
     "url": "https://loja.projetomatic.pt",
     "icon": "https://icons.duckduckgo.com/ip3/loja.projetomatic.pt.ico",
     "slug": "projetomatic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2409,
-    "timeDay": 1791,
-    "timeWeek": 2443,
-    "timeMonth": 2388,
-    "timeYear": 2409,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2410,
+    "timeDay": 2108,
+    "timeWeek": 2463,
+    "timeMonth": 2394,
+    "timeYear": 2410,
     "dailyMinutesDown": {
-      "2024-02-17": 1
+      "2024-02-17": 9
     }
   },
   {
@@ -395,7 +395,7 @@
     "timeMonth": 116,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-02-17": 441,
+      "2024-02-17": 450,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
@@ -521,19 +521,19 @@
     "url": "https://projetomatic.pt",
     "icon": "https://icons.duckduckgo.com/ip3/projetomatic.pt.ico",
     "slug": "projetomatic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2409,
-    "timeDay": 1791,
-    "timeWeek": 2443,
-    "timeMonth": 2388,
-    "timeYear": 2409,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2410,
+    "timeDay": 2108,
+    "timeWeek": 2463,
+    "timeMonth": 2394,
+    "timeYear": 2410,
     "dailyMinutesDown": {
-      "2024-02-17": 1
+      "2024-02-17": 9
     }
   },
   {
