@@ -201,19 +201,19 @@
     "url": "https://fatorx.pt",
     "icon": "https://icons.duckduckgo.com/ip3/fatorx.pt.ico",
     "slug": "fatorx",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 766,
-    "timeWeek": 1177,
-    "timeMonth": 988,
-    "timeYear": 917,
+    "time": 918,
+    "timeDay": 915,
+    "timeWeek": 1179,
+    "timeMonth": 991,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2024-02-22": 1
+      "2024-02-22": 7
     }
   },
   {
@@ -221,19 +221,19 @@
     "url": "https://formacao.fatorx.pt",
     "icon": "https://icons.duckduckgo.com/ip3/formacao.fatorx.pt.ico",
     "slug": "fatorx",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 766,
-    "timeWeek": 1177,
-    "timeMonth": 988,
-    "timeYear": 917,
+    "time": 918,
+    "timeDay": 915,
+    "timeWeek": 1179,
+    "timeMonth": 991,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2024-02-22": 1
+      "2024-02-22": 7
     }
   },
   {
@@ -397,7 +397,7 @@
     "timeMonth": 112,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-02-22": 709,
+      "2024-02-22": 717,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
