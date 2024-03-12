@@ -1,7 +1,7 @@
 url: https://dropandlock.pt
-status: up
-code: 200
-responseTime: 932
-lastUpdated: 2024-03-11T23:12:07.692Z
+status: down
+code: 502
+responseTime: 661
+lastUpdated: 2024-03-12T09:38:19.878Z
 startTime: 2023-10-22T15:50:32.781Z
 generator: Upptime <https://github.com/upptime/upptime>
