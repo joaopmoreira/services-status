@@ -6,18 +6,16 @@
     "slug": "100fitclub",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 977,
     "timeDay": 1115,
     "timeWeek": 980,
     "timeMonth": 934,
     "timeYear": 977,
-    "dailyMinutesDown": {
-      "2024-03-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "amr-classicdrive",
@@ -26,9 +24,9 @@
     "slug": "amr-classicdrive",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1553,
     "timeDay": 1317,
@@ -36,7 +34,6 @@
     "timeMonth": 1271,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2024-03-12": 8,
       "2023-12-22": 41
     }
   },
@@ -47,18 +44,16 @@
     "slug": "amr-imoveis",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1141,
     "timeDay": 1017,
     "timeWeek": 875,
     "timeMonth": 1145,
     "timeYear": 1141,
-    "dailyMinutesDown": {
-      "2024-03-12": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "App 100fitclub",
@@ -67,18 +62,16 @@
     "slug": "app-100fitclub",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 616,
     "timeDay": 751,
     "timeWeek": 669,
     "timeMonth": 620,
     "timeYear": 616,
-    "dailyMinutesDown": {
-      "2024-03-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "benali",
@@ -86,18 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/benali.org.ico",
     "slug": "benali",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 2246,
     "timeDay": 1840,
     "timeWeek": 2342,
     "timeMonth": 2398,
     "timeYear": 2246,
     "dailyMinutesDown": {
-      "2024-03-12": 9,
       "2023-12-18": 23,
       "2023-11-19": 17,
       "2023-11-07": 16,
@@ -109,18 +101,20 @@
     "url": "https://prosnowlife.com",
     "icon": "https://icons.duckduckgo.com/ip3/prosnowlife.com.ico",
     "slug": "prosnowlife",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2011,
-    "timeDay": 4821,
-    "timeWeek": 2944,
-    "timeMonth": 2339,
-    "timeYear": 2011,
-    "dailyMinutesDown": {}
+    "time": 2005,
+    "timeDay": 3950,
+    "timeWeek": 2798,
+    "timeMonth": 2308,
+    "timeYear": 2005,
+    "dailyMinutesDown": {
+      "2024-03-12": 0
+    }
   },
   {
     "name": "ricardoguiomar",
@@ -147,18 +141,16 @@
     "slug": "diamondsevents",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2530,
     "timeDay": 2493,
     "timeWeek": 3226,
     "timeMonth": 3468,
     "timeYear": 2530,
-    "dailyMinutesDown": {
-      "2024-03-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dlgportas",
@@ -166,18 +158,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dlgportas.com.ico",
     "slug": "dlgportas",
     "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.20%",
+    "uptime": "98.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.21%",
     "time": 3096,
     "timeDay": 1717,
     "timeWeek": 2109,
     "timeMonth": 1934,
     "timeYear": 3096,
     "dailyMinutesDown": {
-      "2024-03-12": 9,
       "2023-10-29": 70,
       "2023-10-28": 202,
       "2023-10-27": 294,
@@ -194,9 +185,9 @@
     "slug": "dropandlock",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1043,
     "timeDay": 858,
@@ -204,7 +195,6 @@
     "timeMonth": 800,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2024-03-12": 9,
       "2023-11-01": 57
     }
   },
@@ -285,18 +275,19 @@
     "url": "https://mafaldagranado.com",
     "icon": "https://icons.duckduckgo.com/ip3/mafaldagranado.com.ico",
     "slug": "mafaldagranado",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.15%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.11%",
     "time": 1686,
     "timeDay": 2630,
     "timeWeek": 2323,
     "timeMonth": 2200,
     "timeYear": 1686,
     "dailyMinutesDown": {
+      "2024-03-12": 1,
       "2024-03-10": 39,
       "2024-03-07": 47,
       "2024-02-08": 65,
@@ -315,10 +306,10 @@
     "url": "https://my.visualwebdesign.pt",
     "icon": "https://icons.duckduckgo.com/ip3/my.visualwebdesign.pt.ico",
     "slug": "visualwebdesign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2744,
@@ -327,6 +318,7 @@
     "timeMonth": 2560,
     "timeYear": 2744,
     "dailyMinutesDown": {
+      "2024-03-12": 1,
       "2024-02-08": 20,
       "2024-01-16": 18
     }
@@ -336,10 +328,10 @@
     "url": "https://new.visualwebdesign.pt",
     "icon": "https://icons.duckduckgo.com/ip3/new.visualwebdesign.pt.ico",
     "slug": "visualwebdesign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2744,
@@ -348,6 +340,7 @@
     "timeMonth": 2560,
     "timeYear": 2744,
     "dailyMinutesDown": {
+      "2024-03-12": 1,
       "2024-02-08": 20,
       "2024-01-16": 18
     }
@@ -375,18 +368,19 @@
     "url": "https://parquemonteverde.com",
     "icon": "https://icons.duckduckgo.com/ip3/parquemonteverde.com.ico",
     "slug": "parquemonteverde",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 2144,
-    "timeDay": 2643,
-    "timeWeek": 2561,
-    "timeMonth": 2241,
-    "timeYear": 2144,
+    "time": 2133,
+    "timeDay": 1596,
+    "timeWeek": 2337,
+    "timeMonth": 2187,
+    "timeYear": 2133,
     "dailyMinutesDown": {
+      "2024-03-12": 1,
       "2024-03-08": 21,
       "2024-02-01": 15
     }
@@ -408,7 +402,7 @@
     "timeMonth": 113,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2024-03-12": 588,
+      "2024-03-12": 1254,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
@@ -576,18 +570,20 @@
     "url": "https://prosnowlife.com",
     "icon": "https://icons.duckduckgo.com/ip3/prosnowlife.com.ico",
     "slug": "prosnowlife",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2011,
-    "timeDay": 4821,
-    "timeWeek": 2944,
-    "timeMonth": 2339,
-    "timeYear": 2011,
-    "dailyMinutesDown": {}
+    "time": 2005,
+    "timeDay": 3950,
+    "timeWeek": 2798,
+    "timeMonth": 2308,
+    "timeYear": 2005,
+    "dailyMinutesDown": {
+      "2024-03-12": 0
+    }
   },
   {
     "name": "ricardoguiomar",
@@ -648,28 +644,30 @@
     "url": "https://villasjoinal.com",
     "icon": "https://icons.duckduckgo.com/ip3/villasjoinal.com.ico",
     "slug": "villasjoinal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1844,
-    "timeDay": 2592,
-    "timeWeek": 3221,
-    "timeMonth": 2761,
-    "timeYear": 1844,
-    "dailyMinutesDown": {}
+    "time": 1834,
+    "timeDay": 1540,
+    "timeWeek": 2879,
+    "timeMonth": 2685,
+    "timeYear": 1834,
+    "dailyMinutesDown": {
+      "2024-03-12": 0
+    }
   },
   {
     "name": "visualwebdesign",
     "url": "https://visualwebdesign.net",
     "icon": "https://icons.duckduckgo.com/ip3/visualwebdesign.net.ico",
     "slug": "visualwebdesign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2744,
@@ -678,6 +676,7 @@
     "timeMonth": 2560,
     "timeYear": 2744,
     "dailyMinutesDown": {
+      "2024-03-12": 1,
       "2024-02-08": 20,
       "2024-01-16": 18
     }
@@ -687,10 +686,10 @@
     "url": "https://visualwebdesign.pt",
     "icon": "https://icons.duckduckgo.com/ip3/visualwebdesign.pt.ico",
     "slug": "visualwebdesign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2744,
@@ -699,6 +698,7 @@
     "timeMonth": 2560,
     "timeYear": 2744,
     "dailyMinutesDown": {
+      "2024-03-12": 1,
       "2024-02-08": 20,
       "2024-01-16": 18
     }
